@@ -47,7 +47,7 @@ To set up the framework, follow these steps:
 
 If you find this work useful, please cite the following paper:
 (Currently accepted and waiting for publication)
-
+```
 @inproceedings{roodsari20243,
   title={Non-Uniform Error Correction for Hyperdimensional Computing Edge Accelerators},
   author={Roodsari, Mahboobe Sadeghipour and Hemaram, Surendra and Tahoori, Mehdi},
