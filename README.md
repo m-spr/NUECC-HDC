@@ -45,6 +45,9 @@ To set up the framework, follow these steps:
 - Make a new project based on [RCEHDC](git@github.com:m-spr/NUECC-HDC.git) 
 - Modify the IP by replacing the modules in the hardware folder as required.
 
+
+Citation
+------------
 If you find this work useful, please cite the following paper:
 (Currently accepted and waiting for publication)
 ```
