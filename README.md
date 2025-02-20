@@ -19,9 +19,9 @@ We propose a **non-uniform fault correction framework** that enhances **HDC robu
 ## **System Overview**  
 
 The diagram below illustrates our proposed **non-uniform ECC mechanism** for HDC accelerators. This framework:  
-✅ Identifies **sensitive** and **less sensitive** regions (**SR** & **LSR**).  
-✅ Allocates **ECC resources selectively** to balance error correction and storage efficiency.  
-✅ Enables **runtime fault detection and correction** with minimal hardware overhead.  
+ Identifies **sensitive** and **less sensitive** regions (**SR** & **LSR**).  
+ Allocates **ECC resources selectively** to balance error correction and storage efficiency.  
+ Enables **runtime fault detection and correction** with minimal hardware overhead.  
 
 ![System Overview](images/system_overview.png)   
 
@@ -30,8 +30,8 @@ The diagram below illustrates our proposed **non-uniform ECC mechanism** for HDC
 ## **Hardware Overview**  
 
 The following figure presents the **non-uniform ECC architecture** for **Class Hypervector (CHV)** within the HDC accelerator.  
-- 🔸 **Sensitive Regions (SR)** are highlighted in **orange**, requiring stricter ECC.  
-- 🟢 **Less Sensitive Regions (LSR)** are shown in **green**, optimized for reduced overhead.  
+- **Sensitive Regions (SR)** are highlighted in **orange**, requiring stricter ECC.  
+- **Less Sensitive Regions (LSR)** are shown in **green**, optimized for reduced overhead.  
 
 ![Hardware Overview](images/hardware_architecture.png)  
 
@@ -44,6 +44,7 @@ To set up the framework, follow these steps:
 - Clone the repository  
 ```bash
 git clone git@github.com:m-spr/NUECC-HDC.git
+
 - make a new project based on [RCEHDC](git@github.com:m-spr/NUECC-HDC.git) 
 - Modify the IP by replacing the modules in the hardware folder as required.
 
