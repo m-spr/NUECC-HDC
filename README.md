@@ -55,7 +55,7 @@ If you find this work useful, please cite the following paper:
   year={2025},
   organization={IEEE}
 }
-
+```
 Task List
 ------------
 - [ ] add instructions to run the ECC python and memory generator codes
