@@ -51,7 +51,7 @@ Citation
 If you find this work useful, please cite the following paper:
 (Currently accepted and waiting for publication)
 ```
-@inproceedings{roodsari20243,
+@inproceedings{roodsari2025Non,
   title={Non-Uniform Error Correction for Hyperdimensional Computing Edge Accelerators},
   author={Roodsari, Mahboobe Sadeghipour and Hemaram, Surendra and Tahoori, Mehdi},
   booktitle={2025 30th IEEE European Test Symposium (ETS)},
