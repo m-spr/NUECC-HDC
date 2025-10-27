@@ -1,6 +1,9 @@
 # **NUECC-HDC**  
 **Non-Uniform Error Correction for Hyperdimensional Computing Edge Accelerators**  
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](#license)
+[![HDC](https://img.shields.io/badge/Topic-HDC-blue.svg)](#)
+
 ## About NUECC-HDC  
 
 Brain-inspired **Hyperdimensional Computing (HDC)** has gained traction as an efficient and lightweight machine learning paradigm. With advantages like **one-shot learning** and **resource efficiency**, HDC is well-suited for **edge devices** with limited computational resources.  
