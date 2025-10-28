@@ -45,7 +45,7 @@ The following figure presents the **non-uniform ECC architecture** for **Class H
 To set up the framework, follow these steps:  
 
 - Clone this repository  
-- Make a new project based on [RCEHDC](git@github.com:m-spr/NUECC-HDC.git) 
+- Make a new project based on [RCEHDC](https://github.com/m-spr/RCEHDC) 
 - Modify the IP by replacing the modules in the hardware folder as required.
 
 
